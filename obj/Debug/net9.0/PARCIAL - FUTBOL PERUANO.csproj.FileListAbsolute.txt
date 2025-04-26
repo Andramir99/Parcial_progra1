@@ -1,0 +1,97 @@
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\appsettings.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.staticwebassets.runtime.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.staticwebassets.endpoints.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.exe
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.deps.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.runtimeconfig.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.dll
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\bin\Debug\net9.0\PARCIAL - FUTBOL PERUANO.pdb
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.AssemblyInfo.cs
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.RazorAssemblyInfo.cache
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.RazorAssemblyInfo.cs
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\scopedcss\bundle\PARCIAL - FUTBOL PERUANO.styles.css
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\scopedcss\projectbundle\PARCIAL - FUTBOL PERUANO.bundle.scp.css
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\hkfbeatlj0-b9sayid5wm.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\pwwhc2dzni-61n19gt1b8.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\lqkjdkd982-xtxxf3hu2r.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\3n8paeh0v0-bqjiyaj88i.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ebhykotoq9-c2jlpeoesf.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\jmns2c55nf-erw9l3u2r3.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\8gu1f8sl1g-aexeepp0ev.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\yitqcreqli-d7shbmvgxk.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\58cohoodks-ausgxo2sd3.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\mtrxolchjo-k8d9w2qqmf.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\bprhb09u6v-cosvhxvwiu.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\0cpqym7zn0-ub07r2b239.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\xdx0ehphkv-fvhpjtyr6v.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\zuyczt26d7-b7pk76d08c.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\p8nxl17wgx-fsbi9cje9m.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\nf6mltuyie-rzd6atqjts.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\wxxqcloy1q-ee0r1s7dh0.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\mxif15i3k2-dxx9fxp4il.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\n8di3c0kqx-jd9uben2k1.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\rpmzjeycpe-khv3u5hwcm.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\skyrpvbkfr-r4e9w2rdcm.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\oz1v1s8vr2-lcd1t2u6c8.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\mvogotqac7-c2oey78nd0.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\0vyd8w967m-tdbxkamptv.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\grice4lcsm-j5mq2jizvt.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\epnrtbvn2i-06098lyss8.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\1ufjhekyoe-nvvlpmu67g.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\tyu1iwtdyq-s35ty4nyc5.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ose95k6pqz-pj5nd1wqec.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\5z4z2uglhc-46ein0sx1k.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\gyuencp5kz-v0zj4ognzu.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\2lfh6ybi74-37tfw0ft22.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\asi499dqk5-hrwsygsryq.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\jylanpu66n-pk9g2wxc8p.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\hdo8ixc7kn-ft3s53vfgj.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\x86wwvbmso-6cfz1n2cew.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\yqezpddbc0-6pdc2jztkx.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\zjq6pa2ddc-493y06b0oq.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\uensapd7j0-iovd86k7lj.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\b49j1fwyqz-vr1egmr9el.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\g0wycxgba7-kbrnm935zg.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\flzhaxlakp-jj8uyg4cgr.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ivzi453ewv-y7v9cxd14o.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\p61wrtj2n9-notf2xhcfb.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ri5qryse5n-h1s4sie4z3.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\n03itkouw4-63fj8s7r0e.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\uooju7fi69-0j3bgjxly4.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\v99qpwyfu3-47otxtyo56.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\vwr5sipmke-4v8eqarkd7.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\xluvd7qzuu-356vix0kms.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\vw0hqgckoc-83jwlth58m.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\c50561p5bo-mrlpezrjn3.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\qkpme92903-lzl9nlhx6b.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\n2ywpxjyrh-ag7o75518u.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ljzn33nxo8-x0q3zqp4vz.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\kd7xukzoys-0i3buxo5is.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\vawq9l20do-o1o13a6vjx.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\3wjdf6dqwj-ttgo8qnofa.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\buiuf36l6s-2z0ns9nrw6.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\fljnqhl0sw-muycvpuwrr.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\ajizmljkde-87fc7y1x7t.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\i09dabcilr-mlv21k5csn.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\eyoumitnio-dvxj5i00xm.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\compressed\h571vukni7-dvxj5i00xm.gz
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets\msbuild.PARCIAL - FUTBOL PERUANO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets\msbuild.PARCIAL - FUTBOL PERUANO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets\msbuild.build.PARCIAL - FUTBOL PERUANO.props
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PARCIAL - FUTBOL PERUANO.props
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PARCIAL - FUTBOL PERUANO.props
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.dll
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\refint\PARCIAL - FUTBOL PERUANO.dll
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.pdb
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\PARCIAL - FUTBOL PERUANO.genruntimeconfig.cache
+C:\Users\marce\Desktop\PROGRAMACION I\PARCIAL - FUTBOL PERUANO\obj\Debug\net9.0\ref\PARCIAL - FUTBOL PERUANO.dll
